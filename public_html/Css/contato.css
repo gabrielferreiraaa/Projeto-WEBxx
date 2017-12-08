@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/12/2017, 15:18:22
+    Author     : josga
+*/
+
+/*CSS Responsável pela pagina de contato*/
+    #header
+    {
+        max-width: 1165px; 
+        margin: 0 auto;
+    }
+
+
+    #header .header-menu ul
+    {
+        list-style-type: none;
+        padding: 40px;    
+        margin: 1px 90px 10px;
+    }
+
+    #header .header-menu ul li
+    {
+        display: inline;
+        padding: 15px 9%;
+        background-color: #ff3333;
+        border-radius: 6px;
+
+    }
+    #header .header-menu ul li:hover
+    {
+        background-color: #ff6600;
+    }
+
+    #header .header-menu ul li a
+    {
+        text-decoration: blue;
+        color: black;
+        font-weight: bold;
+        font-family: 'Arial'
+
+    }
+
+    #logo
+    {
+        margin: 15px 130px 8px;
+    }
+
+    #footer 
+    {
+        width: 1600px;
+        margin: 0 -152px 0 -30px;
+        border: 1px solid #ff6600;                        
+        background-color: #ff6600;
+        overflow: hidden;
+        float: left;
+    }
+
+    #footer p 
+    {
+
+        text-align: center;                    
+        margin: 25px;
+
+    }
+
+    #footer h1
+    {
+        text-align: end;
+        margin: 5px;
+
+    }
+
+    div.nav h1
+    {
+        text-align: center;
+        margin: 82px;
+    }
